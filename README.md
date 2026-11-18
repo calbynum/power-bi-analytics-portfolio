@@ -22,7 +22,7 @@ This project explores five questions:
 ## Dashboard Overview
 
 ### 1. Executive Overview
-
+![Executive Overview Dashboard](executive-overview.png.png)
 Provides an overview of validated trips, recorded charges, average charges, demand trends, and data quality.
 
 **Key findings:**
@@ -33,7 +33,7 @@ Provides an overview of validated trips, recorded charges, average charges, dema
 - 4.46% of records excluded based on project data quality criteria
 
 ### 2. Geographic Intelligence
-
+![Geographic Intelligence Dashboard](geographic-intelligence.png.png)
 Examines pickup activity and recorded charges across NYC taxi zones, using comparative charts and a geographic opportunity matrix.
 
 **Key findings:**
@@ -42,7 +42,7 @@ Examines pickup activity and recorded charges across NYC taxi zones, using compa
 - Airport trips generated higher average charges, suggesting that demand volume alone does not fully explain financial contribution.
 
 ### 3. Operational Insights
-
+![Operational Insights Dashboard](-%20operational-insights.png.png)
 Evaluates trip duration, trip distance, implied speed, and charges per occupied hour.
 
 **Key findings:**
