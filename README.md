@@ -74,7 +74,19 @@ Evaluates trip duration, trip distance, implied speed, and charges per occupied 
 - Strategic recommendations and data storytelling
 
 ## Project Scope
+## Data Source and Methodology
 
+**Source:** [New York City Taxi & Limousine Commission (TLC) Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+
+**Dataset:** NYC Yellow Taxi Trip Records, January through March 2025.
+
+**Analysis period:** Q1 2025.
+
+**Tool:** Microsoft Power BI Desktop.
+
+The project examines trip volume, recorded charges, geographic pickup patterns, trip duration, trip distance, and operational performance. Data quality criteria were applied to identify records suitable for validated analysis. Approximately 4.46% of records were excluded under the project's validation rules.
+
+The analysis is descriptive and intended to support operational decision-making. Findings do not establish causal relationships.
 This portfolio project uses Q1 2025 NYC yellow taxi trip data. Findings are descriptive and should not be interpreted as causal conclusions or forecasts.
 
 ## Author
